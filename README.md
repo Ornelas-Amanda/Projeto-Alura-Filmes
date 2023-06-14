@@ -1,7 +1,7 @@
 # Projeto-Alura-Filmes
 Projeto referente ao curso de Entity Framework parte 1 
 
-# DESAFIOS PROPOSTO NO CURSO:
+# Desafios:
 
  - Desafio Beto quer isolar o mapeamento:
 Criação da classe "Personagem" na pasta "Negocio";
